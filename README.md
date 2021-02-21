@@ -40,6 +40,7 @@ npm i -g warmup-cli
 
 ## Changelog
 
+- **v1.0.1** - 2/21/2021: *Minor updates to README. Package published to npm.*
 - **v1.0.0** - 2/17/2021: *First version released. Scanning not yet supported.*
 
 ---

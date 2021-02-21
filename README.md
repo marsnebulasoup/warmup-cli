@@ -8,13 +8,21 @@
 
 **Warning! This program is not completely stable and it might have bugs/glitches within it.**
 
-Currently, Windows is the only supported OS.
+Currently, Windows is the only supported OS. [Chrome](https://chrome.com/) is required, and is the only currently supported browser.
 
 ## Installation
 
+### Quick and easy installation:
+
+```
+npm i -g warmup-cli
+```
+
+### Manual installation that takes too much time and shouldn't be attempted because it provides absolutely no extra benefit whatsoever:
+
 1. Make sure you have node.js installed. Typing `node -v` in Command Prompt should give you its version, but if that fails, download and install it from [nodejs.org](https://nodejs.org).
 
-2. Download the source code by going to Code > Download .ZIP above, on this page, or click [here](https://github.com/marsnebulasoup/warmup-cli/archive/main.zip).
+2. Download the source code by going to Code > Download .ZIP above, if you're reading this on GitHub, or click [here](https://github.com/marsnebulasoup/warmup-cli/archive/main.zip).
 
 3. Extract the .ZIP and move it to a safe place where it won't be accidentally deleted.
 

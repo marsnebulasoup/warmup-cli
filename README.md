@@ -18,6 +18,12 @@ Currently, Windows is the only supported OS. [Chrome](https://chrome.com/) is re
 npm i -g warmup-cli
 ```
 
+Run it with
+
+```
+warmup-cli
+```
+
 ### Manual installation that takes too much time and shouldn't be attempted because it provides absolutely no extra benefit whatsoever:
 
 1. Make sure you have node.js installed. Typing `node -v` in Command Prompt should give you its version, but if that fails, download and install it from [nodejs.org](https://nodejs.org).

@@ -46,6 +46,7 @@ warmup-cli
 
 ## Changelog
 
+- **v1.1.0** - 2/28/2021: *Nodes supported on D2C; Handles bad URLs and files; fixes a glitch where B2B warmup was broken.*
 - **v1.0.2** - 2/21/2021: *Fixed bug where package author name wasn't showing properly.*
 - **v1.0.1** - 2/21/2021: *Minor updates to README. Package published to npm.*
 - **v1.0.0** - 2/17/2021: *First version released. Scanning not yet supported.*
